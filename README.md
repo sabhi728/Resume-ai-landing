@@ -68,10 +68,10 @@ A modern, responsive landing page for an AI-powered resume optimization service.
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/sabhi728/resume-ai-landing.git
+git clone https://github.com/sabhi728/Resume-ai-landing.git
 
 # Navigate to project directory
-cd resume-ai-landing
+cd Resume-ai-landing
 
 # Install dependencies
 npm install
@@ -135,6 +135,6 @@ npm run lint
 
 
 <div align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Abhishek sharma
 </div>
 
